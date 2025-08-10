@@ -1,0 +1,501 @@
+Month,Season,Holiday,Airline,Source,Destination,Total_Stops,Duration,Price
+3,Printemps,No,Air France,Lyon,Madrid,Non-stop,405,859
+12,Hiver,Yes,Ryanair,Paris,Madrid,Non-stop,382,451
+10,Automne,No,Transavia,Lyon,Berlin,2 stops,65,858
+6,Été,Yes,EasyJet,Nice,Rome,1 stop,600,89
+8,Été,Yes,Ryanair,Nice,Rome,Non-stop,599,809
+4,Printemps,No,Transavia,Marseille,Berlin,1 stop,356,693
+7,Été,No,Lufthansa,Marseille,Berlin,Non-stop,595,357
+1,Hiver,Yes,EasyJet,Nice,Berlin,Non-stop,318,344
+12,Hiver,Yes,EasyJet,Lyon,Rome,2 stops,96,560
+6,Été,No,Air France,Paris,Rome,1 stop,606,656
+1,Hiver,Yes,Air France,Marseille,London,Non-stop,480,725
+1,Hiver,No,EasyJet,Marseille,London,1 stop,532,896
+1,Hiver,No,Ryanair,Paris,Berlin,1 stop,560,539
+3,Printemps,Yes,Ryanair,Nice,Berlin,Non-stop,481,844
+8,Été,Yes,Air France,Marseille,London,1 stop,84,822
+7,Été,Yes,Transavia,Lyon,Berlin,Non-stop,704,496
+11,Automne,No,Transavia,Paris,Berlin,Non-stop,531,842
+2,Hiver,Yes,Lufthansa,Marseille,Berlin,2 stops,185,405
+1,Hiver,Yes,Air France,Nice,Rome,2 stops,286,308
+3,Printemps,Yes,Air France,Lyon,Berlin,1 stop,643,165
+1,Hiver,No,Ryanair,Lyon,Berlin,1 stop,483,832
+1,Hiver,Yes,Air France,Paris,London,2 stops,367,324
+5,Printemps,No,Air France,Nice,Berlin,2 stops,595,818
+6,Été,No,Ryanair,Nice,Madrid,1 stop,403,750
+8,Été,No,Ryanair,Nice,Madrid,1 stop,160,307
+7,Été,No,EasyJet,Lyon,Madrid,1 stop,597,762
+10,Automne,Yes,Lufthansa,Marseille,Berlin,Non-stop,618,701
+12,Hiver,Yes,Transavia,Lyon,Rome,1 stop,162,211
+5,Printemps,Yes,Transavia,Marseille,Madrid,1 stop,380,703
+8,Été,Yes,Transavia,Lyon,London,Non-stop,532,197
+4,Printemps,Yes,Air France,Paris,Madrid,Non-stop,466,89
+2,Hiver,Yes,EasyJet,Lyon,Rome,Non-stop,496,211
+10,Automne,No,Lufthansa,Marseille,Berlin,2 stops,192,257
+1,Hiver,Yes,Lufthansa,Paris,Madrid,2 stops,276,327
+4,Printemps,No,Air France,Lyon,Madrid,1 stop,117,564
+12,Hiver,No,Lufthansa,Nice,Madrid,1 stop,519,199
+12,Hiver,Yes,Lufthansa,Lyon,Rome,Non-stop,276,605
+3,Printemps,No,EasyJet,Lyon,Berlin,2 stops,207,232
+12,Hiver,Yes,Air France,Paris,Rome,2 stops,291,123
+11,Automne,No,EasyJet,Nice,Berlin,1 stop,65,688
+1,Hiver,No,Air France,Marseille,Berlin,2 stops,221,804
+7,Été,No,Lufthansa,Lyon,London,2 stops,704,88
+5,Printemps,Yes,Ryanair,Nice,London,2 stops,380,865
+12,Hiver,No,Ryanair,Nice,London,Non-stop,248,387
+4,Printemps,No,Transavia,Paris,Madrid,2 stops,481,164
+10,Automne,Yes,Air France,Lyon,Rome,2 stops,311,376
+11,Automne,No,Air France,Lyon,Rome,Non-stop,256,503
+8,Été,Yes,Transavia,Paris,Berlin,1 stop,575,151
+2,Hiver,No,Lufthansa,Nice,Rome,Non-stop,480,412
+12,Hiver,Yes,Ryanair,Lyon,Rome,Non-stop,645,325
+10,Automne,No,Transavia,Lyon,Berlin,Non-stop,266,835
+10,Automne,Yes,Air France,Paris,Madrid,1 stop,461,592
+2,Hiver,Yes,Transavia,Nice,Rome,Non-stop,108,701
+6,Été,No,EasyJet,Marseille,London,1 stop,331,709
+9,Automne,No,EasyJet,Marseille,Rome,2 stops,711,231
+10,Automne,Yes,EasyJet,Marseille,Madrid,2 stops,543,256
+3,Printemps,Yes,Air France,Nice,Rome,2 stops,562,196
+4,Printemps,No,Transavia,Paris,Madrid,2 stops,427,801
+12,Hiver,No,Transavia,Paris,Madrid,Non-stop,238,82
+9,Automne,Yes,Air France,Lyon,Rome,Non-stop,123,97
+7,Été,Yes,Lufthansa,Nice,Madrid,2 stops,412,622
+2,Hiver,No,Ryanair,Lyon,Berlin,2 stops,261,109
+12,Hiver,Yes,Ryanair,Marseille,Berlin,2 stops,691,121
+7,Été,No,Ryanair,Lyon,Berlin,1 stop,247,118
+2,Hiver,No,Lufthansa,Paris,London,Non-stop,190,713
+12,Hiver,Yes,EasyJet,Marseille,Madrid,2 stops,434,426
+12,Hiver,No,Transavia,Lyon,Madrid,2 stops,438,352
+4,Printemps,Yes,Lufthansa,Paris,Rome,2 stops,558,713
+2,Hiver,No,Ryanair,Paris,London,1 stop,619,839
+10,Automne,Yes,Ryanair,Nice,Madrid,1 stop,176,805
+1,Hiver,No,Air France,Lyon,Rome,1 stop,590,427
+5,Printemps,Yes,EasyJet,Marseille,Madrid,1 stop,631,302
+9,Automne,Yes,EasyJet,Nice,Madrid,Non-stop,565,52
+12,Hiver,No,Air France,Marseille,Rome,1 stop,329,462
+10,Automne,Yes,Transavia,Paris,Madrid,Non-stop,92,334
+3,Printemps,Yes,Air France,Paris,Berlin,2 stops,354,785
+8,Été,No,Air France,Nice,Berlin,2 stops,511,484
+10,Automne,Yes,Lufthansa,Lyon,Rome,Non-stop,661,231
+12,Hiver,No,Lufthansa,Lyon,Berlin,2 stops,214,499
+5,Printemps,Yes,Transavia,Paris,Rome,Non-stop,236,88
+11,Automne,No,EasyJet,Paris,Berlin,2 stops,493,526
+10,Automne,Yes,Transavia,Marseille,London,1 stop,355,339
+6,Été,No,Ryanair,Paris,Rome,Non-stop,137,303
+4,Printemps,No,Air France,Lyon,Madrid,Non-stop,610,477
+3,Printemps,Yes,EasyJet,Paris,Berlin,Non-stop,93,60
+9,Automne,Yes,EasyJet,Marseille,Berlin,2 stops,628,881
+7,Été,No,Air France,Lyon,Rome,1 stop,309,690
+2,Hiver,Yes,Transavia,Lyon,Berlin,Non-stop,651,255
+8,Été,No,Air France,Paris,London,1 stop,519,790
+7,Été,No,Air France,Nice,London,Non-stop,363,441
+1,Hiver,Yes,EasyJet,Nice,London,Non-stop,644,187
+6,Été,Yes,Lufthansa,Nice,Rome,1 stop,474,520
+12,Hiver,Yes,Transavia,Marseille,London,2 stops,445,56
+9,Automne,No,Lufthansa,Lyon,Madrid,Non-stop,599,389
+10,Automne,No,Air France,Nice,Rome,1 stop,403,862
+9,Automne,No,Air France,Paris,Madrid,2 stops,178,559
+5,Printemps,No,Ryanair,Paris,Berlin,2 stops,88,386
+7,Été,Yes,Ryanair,Marseille,Berlin,2 stops,233,276
+11,Automne,Yes,Lufthansa,Marseille,Madrid,1 stop,499,395
+1,Hiver,Yes,Transavia,Nice,London,2 stops,194,661
+9,Automne,No,Ryanair,Paris,Rome,2 stops,661,371
+4,Printemps,Yes,Lufthansa,Nice,Rome,1 stop,716,456
+10,Automne,No,Ryanair,Nice,Madrid,Non-stop,571,383
+9,Automne,Yes,Air France,Marseille,London,1 stop,337,360
+6,Été,No,EasyJet,Paris,Madrid,1 stop,314,51
+10,Automne,Yes,Lufthansa,Paris,Madrid,1 stop,325,591
+5,Printemps,No,EasyJet,Marseille,Berlin,Non-stop,487,748
+1,Hiver,Yes,Transavia,Lyon,Berlin,2 stops,256,113
+2,Hiver,No,EasyJet,Marseille,Madrid,2 stops,560,113
+7,Été,Yes,Air France,Marseille,London,Non-stop,244,658
+8,Été,Yes,Ryanair,Paris,Rome,1 stop,547,588
+6,Été,Yes,Lufthansa,Nice,London,1 stop,443,785
+8,Été,No,Ryanair,Lyon,Rome,2 stops,666,680
+2,Hiver,No,Air France,Paris,Madrid,Non-stop,598,492
+4,Printemps,Yes,Lufthansa,Marseille,London,1 stop,576,169
+8,Été,No,Transavia,Lyon,Rome,2 stops,274,162
+1,Hiver,No,Ryanair,Paris,Rome,1 stop,569,211
+2,Hiver,Yes,EasyJet,Marseille,Rome,2 stops,512,84
+8,Été,Yes,Lufthansa,Marseille,Madrid,Non-stop,693,736
+5,Printemps,No,Transavia,Nice,London,2 stops,307,205
+1,Hiver,No,Transavia,Lyon,Berlin,Non-stop,592,340
+3,Printemps,Yes,Transavia,Paris,Rome,2 stops,212,127
+10,Automne,Yes,Ryanair,Marseille,Rome,Non-stop,224,245
+11,Automne,Yes,Lufthansa,Nice,London,1 stop,556,384
+5,Printemps,Yes,Transavia,Nice,Rome,2 stops,262,475
+6,Été,Yes,Lufthansa,Marseille,Madrid,Non-stop,70,332
+10,Automne,No,Transavia,Lyon,Rome,Non-stop,384,520
+9,Automne,No,EasyJet,Paris,London,2 stops,558,893
+3,Printemps,No,Ryanair,Lyon,London,Non-stop,537,570
+10,Automne,No,Air France,Lyon,London,1 stop,496,353
+9,Automne,Yes,EasyJet,Marseille,Madrid,1 stop,588,893
+2,Hiver,Yes,Ryanair,Marseille,Berlin,1 stop,611,779
+10,Automne,Yes,Air France,Lyon,Madrid,1 stop,554,522
+1,Hiver,Yes,Ryanair,Nice,London,2 stops,360,151
+12,Hiver,Yes,Transavia,Paris,Berlin,1 stop,189,614
+8,Été,Yes,Air France,Paris,Berlin,1 stop,420,757
+8,Été,Yes,Ryanair,Marseille,Madrid,1 stop,185,653
+3,Printemps,Yes,Ryanair,Marseille,London,1 stop,249,150
+5,Printemps,No,Transavia,Lyon,Rome,1 stop,471,357
+7,Été,No,Ryanair,Lyon,Rome,Non-stop,395,621
+6,Été,Yes,Ryanair,Paris,Rome,Non-stop,322,240
+1,Hiver,No,Transavia,Paris,Madrid,2 stops,604,334
+8,Été,No,Air France,Marseille,London,Non-stop,440,470
+2,Hiver,Yes,Air France,Paris,Madrid,2 stops,524,84
+4,Printemps,No,Transavia,Paris,Berlin,Non-stop,456,453
+12,Hiver,No,Air France,Nice,London,1 stop,238,624
+7,Été,Yes,Lufthansa,Marseille,London,Non-stop,473,231
+4,Printemps,Yes,Lufthansa,Lyon,Rome,Non-stop,453,656
+8,Été,No,Air France,Nice,Rome,1 stop,571,767
+8,Été,Yes,Lufthansa,Paris,Rome,Non-stop,382,897
+1,Hiver,Yes,EasyJet,Nice,London,Non-stop,91,276
+2,Hiver,Yes,Transavia,Paris,Rome,1 stop,102,702
+3,Printemps,Yes,Air France,Nice,Rome,Non-stop,113,98
+7,Été,Yes,Lufthansa,Paris,Berlin,Non-stop,656,372
+5,Printemps,Yes,EasyJet,Marseille,Rome,Non-stop,303,600
+2,Hiver,No,Ryanair,Nice,London,2 stops,556,253
+7,Été,Yes,Lufthansa,Paris,Berlin,1 stop,75,531
+4,Printemps,No,Air France,Lyon,London,Non-stop,487,103
+9,Automne,No,Air France,Lyon,Rome,Non-stop,195,808
+6,Été,No,Transavia,Paris,Madrid,Non-stop,268,133
+8,Été,No,EasyJet,Marseille,Berlin,1 stop,203,890
+1,Hiver,Yes,EasyJet,Paris,Rome,2 stops,577,507
+1,Hiver,No,EasyJet,Nice,Rome,1 stop,410,82
+6,Été,No,EasyJet,Paris,London,1 stop,682,686
+5,Printemps,No,Lufthansa,Lyon,Rome,Non-stop,486,835
+1,Hiver,Yes,EasyJet,Paris,London,Non-stop,151,687
+4,Printemps,No,Lufthansa,Nice,Madrid,1 stop,458,312
+7,Été,Yes,EasyJet,Marseille,London,Non-stop,613,268
+1,Hiver,Yes,Transavia,Marseille,Madrid,2 stops,64,540
+1,Hiver,Yes,Ryanair,Nice,Berlin,1 stop,277,532
+8,Été,Yes,EasyJet,Paris,London,Non-stop,616,704
+3,Printemps,Yes,Lufthansa,Paris,Madrid,Non-stop,558,489
+7,Été,No,Lufthansa,Lyon,Madrid,Non-stop,297,811
+3,Printemps,No,EasyJet,Lyon,Rome,2 stops,498,451
+8,Été,Yes,EasyJet,Lyon,Berlin,Non-stop,555,530
+6,Été,Yes,Lufthansa,Lyon,Rome,Non-stop,606,816
+3,Printemps,No,Lufthansa,Paris,Rome,1 stop,183,412
+5,Printemps,No,Ryanair,Paris,Berlin,2 stops,555,272
+1,Hiver,No,Transavia,Lyon,Rome,Non-stop,197,378
+1,Hiver,Yes,Ryanair,Nice,London,Non-stop,460,478
+3,Printemps,No,Lufthansa,Paris,Rome,Non-stop,601,553
+5,Printemps,Yes,Ryanair,Paris,London,2 stops,226,219
+3,Printemps,No,EasyJet,Marseille,London,1 stop,540,381
+4,Printemps,Yes,Ryanair,Marseille,Berlin,Non-stop,81,770
+8,Été,No,Air France,Marseille,Rome,2 stops,398,503
+3,Printemps,Yes,Air France,Nice,Berlin,2 stops,285,507
+11,Automne,Yes,Transavia,Nice,Rome,1 stop,586,453
+12,Hiver,No,Air France,Marseille,London,2 stops,366,744
+8,Été,No,Air France,Lyon,Berlin,Non-stop,303,821
+4,Printemps,Yes,Air France,Nice,Rome,1 stop,403,630
+7,Été,No,Air France,Marseille,Madrid,2 stops,543,714
+7,Été,Yes,Air France,Lyon,Rome,1 stop,160,840
+5,Printemps,Yes,Ryanair,Lyon,London,2 stops,99,765
+12,Hiver,No,Ryanair,Lyon,Madrid,Non-stop,666,655
+3,Printemps,Yes,Lufthansa,Marseille,Berlin,2 stops,535,771
+7,Été,No,Ryanair,Lyon,London,2 stops,326,270
+2,Hiver,Yes,Lufthansa,Nice,London,2 stops,336,869
+3,Printemps,Yes,Air France,Marseille,London,1 stop,702,127
+5,Printemps,No,Ryanair,Nice,Madrid,1 stop,705,74
+9,Automne,No,Ryanair,Marseille,Berlin,Non-stop,233,832
+5,Printemps,Yes,Air France,Paris,Berlin,Non-stop,708,503
+3,Printemps,Yes,EasyJet,Paris,London,1 stop,689,776
+11,Automne,Yes,Lufthansa,Nice,Berlin,2 stops,401,164
+2,Hiver,No,EasyJet,Marseille,Madrid,1 stop,262,295
+11,Automne,No,Ryanair,Nice,Madrid,2 stops,595,462
+11,Automne,Yes,Air France,Marseille,Rome,2 stops,471,435
+1,Hiver,No,EasyJet,Lyon,Rome,Non-stop,379,458
+6,Été,Yes,Transavia,Marseille,Madrid,1 stop,422,872
+10,Automne,Yes,EasyJet,Paris,Madrid,Non-stop,418,733
+5,Printemps,Yes,Transavia,Marseille,London,2 stops,546,369
+3,Printemps,No,Ryanair,Lyon,Rome,Non-stop,331,608
+5,Printemps,Yes,Transavia,Paris,Berlin,Non-stop,379,133
+10,Automne,No,Ryanair,Nice,Madrid,2 stops,652,523
+4,Printemps,Yes,Transavia,Nice,Berlin,Non-stop,316,94
+3,Printemps,No,Transavia,Nice,London,Non-stop,244,467
+7,Été,No,Transavia,Marseille,Berlin,1 stop,537,845
+10,Automne,No,Air France,Marseille,Rome,2 stops,625,788
+3,Printemps,No,Ryanair,Paris,London,Non-stop,550,196
+7,Été,Yes,Lufthansa,Nice,Berlin,1 stop,196,554
+2,Hiver,No,Air France,Marseille,Berlin,2 stops,596,73
+8,Été,Yes,Lufthansa,Paris,Berlin,1 stop,544,787
+10,Automne,Yes,Lufthansa,Marseille,London,Non-stop,567,580
+8,Été,Yes,Air France,Paris,Berlin,1 stop,682,841
+12,Hiver,Yes,Air France,Paris,Berlin,1 stop,687,728
+2,Hiver,No,Ryanair,Marseille,Berlin,2 stops,661,176
+12,Hiver,No,Air France,Nice,Berlin,1 stop,217,342
+8,Été,No,Lufthansa,Marseille,Rome,Non-stop,630,552
+4,Printemps,Yes,Transavia,Nice,Rome,2 stops,398,337
+8,Été,No,EasyJet,Paris,London,2 stops,105,331
+4,Printemps,Yes,Ryanair,Nice,Berlin,Non-stop,336,687
+3,Printemps,No,Air France,Paris,Rome,1 stop,425,441
+9,Automne,Yes,Air France,Paris,Berlin,2 stops,185,859
+10,Automne,No,Lufthansa,Paris,Berlin,Non-stop,581,389
+8,Été,Yes,Ryanair,Marseille,Berlin,2 stops,312,351
+1,Hiver,Yes,EasyJet,Nice,Rome,2 stops,487,584
+12,Hiver,No,EasyJet,Paris,Rome,Non-stop,699,599
+5,Printemps,Yes,Air France,Marseille,Madrid,2 stops,326,782
+6,Été,Yes,Lufthansa,Marseille,Berlin,Non-stop,258,281
+4,Printemps,Yes,Lufthansa,Nice,Madrid,1 stop,425,830
+4,Printemps,Yes,EasyJet,Lyon,Madrid,1 stop,472,546
+12,Hiver,Yes,Transavia,Nice,London,1 stop,101,160
+4,Printemps,No,Lufthansa,Lyon,Madrid,Non-stop,199,272
+8,Été,No,Lufthansa,Marseille,Madrid,2 stops,708,236
+9,Automne,No,Air France,Marseille,Berlin,1 stop,716,252
+6,Été,Yes,EasyJet,Nice,Madrid,Non-stop,524,412
+3,Printemps,Yes,EasyJet,Marseille,Berlin,Non-stop,385,575
+8,Été,No,Air France,Nice,Berlin,Non-stop,391,516
+10,Automne,No,Transavia,Lyon,Berlin,2 stops,384,611
+4,Printemps,Yes,Lufthansa,Lyon,Rome,2 stops,394,263
+12,Hiver,Yes,Lufthansa,Paris,Madrid,1 stop,607,727
+3,Printemps,Yes,EasyJet,Lyon,Madrid,Non-stop,201,199
+10,Automne,Yes,Lufthansa,Lyon,London,1 stop,590,515
+7,Été,Yes,Transavia,Lyon,Rome,1 stop,530,138
+10,Automne,No,EasyJet,Lyon,Berlin,Non-stop,313,153
+1,Hiver,No,Air France,Lyon,Berlin,1 stop,209,291
+7,Été,No,Ryanair,Marseille,Madrid,2 stops,523,613
+1,Hiver,No,EasyJet,Marseille,Madrid,2 stops,275,258
+4,Printemps,Yes,EasyJet,Lyon,Madrid,2 stops,533,572
+10,Automne,No,Transavia,Nice,Madrid,2 stops,81,506
+8,Été,Yes,Air France,Nice,Madrid,Non-stop,78,491
+11,Automne,No,Ryanair,Lyon,Berlin,1 stop,581,206
+3,Printemps,No,Transavia,Lyon,London,2 stops,374,822
+11,Automne,Yes,Ryanair,Lyon,Madrid,1 stop,306,116
+10,Automne,No,EasyJet,Paris,Berlin,1 stop,98,645
+1,Hiver,Yes,Air France,Nice,London,1 stop,666,719
+1,Hiver,Yes,Ryanair,Paris,Madrid,Non-stop,376,697
+9,Automne,Yes,Transavia,Lyon,London,Non-stop,227,347
+10,Automne,Yes,Lufthansa,Lyon,Madrid,Non-stop,364,449
+5,Printemps,No,Lufthansa,Nice,London,Non-stop,260,860
+11,Automne,Yes,EasyJet,Paris,London,2 stops,641,142
+12,Hiver,Yes,Ryanair,Lyon,Berlin,2 stops,327,597
+11,Automne,No,Air France,Lyon,Madrid,1 stop,119,397
+8,Été,No,Ryanair,Paris,Rome,2 stops,100,230
+2,Hiver,No,Lufthansa,Paris,Berlin,2 stops,400,333
+2,Hiver,Yes,Ryanair,Lyon,Madrid,2 stops,523,206
+7,Été,Yes,Lufthansa,Lyon,Rome,2 stops,224,56
+1,Hiver,Yes,EasyJet,Marseille,Madrid,1 stop,428,764
+5,Printemps,No,Lufthansa,Lyon,Berlin,2 stops,93,615
+11,Automne,No,EasyJet,Paris,Rome,2 stops,331,398
+7,Été,Yes,Ryanair,Paris,Berlin,1 stop,88,289
+12,Hiver,Yes,Air France,Nice,Madrid,2 stops,575,371
+4,Printemps,Yes,Transavia,Lyon,Madrid,1 stop,457,255
+1,Hiver,Yes,Air France,Lyon,Berlin,1 stop,356,526
+7,Été,Yes,Air France,Marseille,Madrid,1 stop,426,133
+6,Été,Yes,Lufthansa,Lyon,London,2 stops,620,560
+6,Été,No,Lufthansa,Marseille,Madrid,Non-stop,501,212
+1,Hiver,No,Air France,Marseille,London,Non-stop,279,223
+11,Automne,No,Air France,Lyon,London,Non-stop,147,809
+3,Printemps,Yes,Lufthansa,Marseille,Madrid,2 stops,633,107
+6,Été,No,Air France,Paris,Berlin,1 stop,382,405
+9,Automne,Yes,Air France,Lyon,London,2 stops,118,410
+8,Été,Yes,Air France,Paris,Berlin,1 stop,158,571
+6,Été,Yes,Lufthansa,Marseille,Rome,Non-stop,564,288
+8,Été,Yes,Transavia,Nice,London,Non-stop,74,839
+12,Hiver,No,Ryanair,Marseille,London,2 stops,709,283
+12,Hiver,Yes,Lufthansa,Paris,Madrid,Non-stop,499,397
+7,Été,No,Lufthansa,Paris,Madrid,2 stops,92,517
+6,Été,No,EasyJet,Paris,London,2 stops,646,156
+3,Printemps,No,Lufthansa,Lyon,Rome,2 stops,704,798
+1,Hiver,Yes,Transavia,Paris,Madrid,Non-stop,153,750
+8,Été,Yes,Lufthansa,Marseille,London,1 stop,676,510
+5,Printemps,No,EasyJet,Paris,Rome,1 stop,666,705
+12,Hiver,Yes,Ryanair,Paris,London,2 stops,563,545
+9,Automne,No,Transavia,Nice,London,2 stops,110,70
+1,Hiver,Yes,Ryanair,Marseille,Madrid,Non-stop,503,357
+6,Été,No,Lufthansa,Nice,London,Non-stop,556,835
+9,Automne,Yes,EasyJet,Nice,Berlin,2 stops,344,378
+5,Printemps,Yes,Transavia,Paris,Berlin,Non-stop,84,313
+1,Hiver,Yes,Transavia,Paris,Madrid,1 stop,105,740
+7,Été,Yes,EasyJet,Lyon,London,1 stop,270,237
+6,Été,No,EasyJet,Paris,London,Non-stop,319,358
+3,Printemps,No,Lufthansa,Paris,Rome,1 stop,243,354
+2,Hiver,Yes,Air France,Marseille,Rome,2 stops,351,573
+8,Été,No,EasyJet,Nice,Berlin,1 stop,622,636
+4,Printemps,No,Lufthansa,Marseille,London,2 stops,169,727
+7,Été,Yes,Ryanair,Paris,Rome,1 stop,516,640
+9,Automne,No,Air France,Nice,London,2 stops,365,496
+11,Automne,No,Transavia,Marseille,Madrid,Non-stop,103,876
+9,Automne,Yes,EasyJet,Paris,London,2 stops,601,300
+8,Été,No,Ryanair,Lyon,Berlin,2 stops,467,449
+6,Été,Yes,Air France,Paris,Madrid,Non-stop,531,430
+12,Hiver,No,Ryanair,Nice,Rome,2 stops,140,662
+6,Été,Yes,Ryanair,Paris,Rome,1 stop,695,580
+4,Printemps,Yes,Ryanair,Nice,Berlin,1 stop,544,786
+3,Printemps,No,Transavia,Paris,Rome,1 stop,678,746
+11,Automne,Yes,Air France,Marseille,Rome,2 stops,595,438
+9,Automne,No,Air France,Nice,Rome,2 stops,122,118
+8,Été,Yes,Lufthansa,Paris,Berlin,1 stop,84,200
+2,Hiver,Yes,Ryanair,Nice,Madrid,Non-stop,394,707
+5,Printemps,Yes,Lufthansa,Marseille,Rome,1 stop,258,461
+12,Hiver,No,Air France,Paris,London,Non-stop,453,461
+9,Automne,No,Air France,Paris,Madrid,Non-stop,378,301
+9,Automne,No,EasyJet,Nice,Berlin,1 stop,306,181
+5,Printemps,No,Air France,Paris,Berlin,2 stops,418,308
+9,Automne,Yes,Ryanair,Marseille,London,Non-stop,348,550
+7,Été,Yes,Ryanair,Paris,Berlin,2 stops,70,703
+2,Hiver,Yes,Lufthansa,Lyon,Rome,1 stop,273,234
+8,Été,Yes,EasyJet,Nice,Madrid,Non-stop,258,102
+2,Hiver,No,EasyJet,Lyon,Madrid,1 stop,596,593
+10,Automne,Yes,Air France,Paris,Berlin,Non-stop,688,889
+12,Hiver,Yes,EasyJet,Lyon,Rome,Non-stop,414,469
+8,Été,No,Air France,Paris,Rome,1 stop,366,240
+4,Printemps,No,Air France,Marseille,Rome,Non-stop,358,647
+8,Été,Yes,EasyJet,Marseille,Madrid,2 stops,418,694
+11,Automne,Yes,Air France,Lyon,London,Non-stop,248,164
+7,Été,No,Transavia,Marseille,Madrid,2 stops,423,70
+5,Printemps,Yes,EasyJet,Nice,Rome,1 stop,492,227
+3,Printemps,No,Transavia,Lyon,Berlin,2 stops,404,221
+1,Hiver,Yes,Ryanair,Nice,Rome,1 stop,483,563
+11,Automne,No,Air France,Nice,Berlin,1 stop,182,60
+10,Automne,Yes,Air France,Nice,London,2 stops,196,336
+6,Été,No,EasyJet,Nice,London,Non-stop,413,370
+12,Hiver,Yes,Transavia,Lyon,Madrid,1 stop,220,653
+9,Automne,No,Lufthansa,Marseille,Rome,Non-stop,596,85
+10,Automne,Yes,Lufthansa,Paris,London,Non-stop,640,682
+9,Automne,No,Air France,Nice,Berlin,1 stop,528,319
+4,Printemps,Yes,Ryanair,Paris,London,2 stops,704,465
+7,Été,No,Air France,Marseille,Madrid,2 stops,398,272
+12,Hiver,No,Lufthansa,Lyon,Madrid,2 stops,298,180
+3,Printemps,Yes,Transavia,Nice,Rome,1 stop,365,704
+10,Automne,No,Air France,Lyon,Berlin,2 stops,136,658
+4,Printemps,Yes,Ryanair,Marseille,Berlin,2 stops,558,773
+2,Hiver,Yes,EasyJet,Lyon,Berlin,Non-stop,460,86
+9,Automne,No,Transavia,Paris,Berlin,Non-stop,278,677
+2,Hiver,Yes,Air France,Paris,Madrid,2 stops,241,338
+12,Hiver,No,Transavia,Marseille,Berlin,Non-stop,663,878
+8,Été,No,Lufthansa,Paris,Berlin,1 stop,624,308
+10,Automne,No,Transavia,Paris,London,Non-stop,222,642
+4,Printemps,No,Air France,Paris,Berlin,1 stop,250,367
+4,Printemps,No,Lufthansa,Marseille,Madrid,1 stop,143,890
+12,Hiver,No,EasyJet,Paris,London,2 stops,422,667
+4,Printemps,No,Air France,Nice,Rome,2 stops,102,707
+8,Été,No,Lufthansa,Marseille,Berlin,2 stops,430,689
+3,Printemps,Yes,EasyJet,Paris,Rome,Non-stop,116,483
+5,Printemps,No,EasyJet,Lyon,Rome,Non-stop,414,658
+7,Été,Yes,Lufthansa,Lyon,Rome,2 stops,466,255
+6,Été,Yes,Air France,Paris,Berlin,Non-stop,204,454
+5,Printemps,No,Ryanair,Paris,Madrid,1 stop,280,627
+7,Été,Yes,Ryanair,Marseille,Rome,2 stops,379,861
+6,Été,Yes,Ryanair,Paris,Berlin,Non-stop,218,898
+4,Printemps,Yes,Transavia,Nice,London,1 stop,428,785
+4,Printemps,Yes,Air France,Paris,Rome,Non-stop,482,842
+2,Hiver,Yes,Lufthansa,Lyon,London,1 stop,674,154
+9,Automne,Yes,Lufthansa,Nice,Berlin,1 stop,442,54
+11,Automne,No,EasyJet,Marseille,London,1 stop,496,539
+1,Hiver,No,EasyJet,Paris,Berlin,2 stops,132,555
+11,Automne,Yes,Ryanair,Paris,Berlin,2 stops,587,254
+6,Été,Yes,EasyJet,Paris,Rome,1 stop,292,88
+8,Été,Yes,Lufthansa,Paris,London,2 stops,686,66
+8,Été,Yes,Transavia,Lyon,London,Non-stop,96,794
+12,Hiver,No,Transavia,Nice,London,2 stops,679,844
+10,Automne,No,EasyJet,Marseille,London,2 stops,115,741
+8,Été,Yes,Lufthansa,Nice,London,2 stops,135,734
+3,Printemps,No,Air France,Nice,London,1 stop,635,630
+3,Printemps,Yes,Ryanair,Lyon,London,1 stop,647,879
+3,Printemps,Yes,Transavia,Lyon,Madrid,1 stop,497,59
+10,Automne,Yes,Ryanair,Lyon,Madrid,2 stops,705,860
+9,Automne,No,Ryanair,Paris,London,Non-stop,568,309
+9,Automne,Yes,Lufthansa,Paris,Rome,Non-stop,317,775
+6,Été,No,Air France,Nice,Rome,2 stops,173,384
+10,Automne,Yes,Ryanair,Lyon,London,Non-stop,264,893
+7,Été,Yes,Air France,Nice,Berlin,Non-stop,362,257
+4,Printemps,Yes,Ryanair,Nice,Madrid,1 stop,264,406
+2,Hiver,No,Lufthansa,Nice,Madrid,2 stops,276,260
+3,Printemps,No,Ryanair,Marseille,Madrid,1 stop,547,565
+1,Hiver,No,Transavia,Paris,London,Non-stop,553,317
+10,Automne,No,Air France,Nice,Madrid,2 stops,486,545
+2,Hiver,Yes,Ryanair,Lyon,Rome,2 stops,430,270
+10,Automne,No,Air France,Lyon,Rome,2 stops,519,522
+5,Printemps,No,Air France,Marseille,London,Non-stop,298,795
+8,Été,No,Lufthansa,Marseille,Rome,1 stop,361,892
+10,Automne,Yes,EasyJet,Marseille,Madrid,Non-stop,472,539
+10,Automne,Yes,Air France,Lyon,London,1 stop,223,164
+4,Printemps,No,Lufthansa,Paris,Berlin,1 stop,369,376
+11,Automne,No,Lufthansa,Lyon,London,Non-stop,538,854
+7,Été,No,Air France,Lyon,Rome,2 stops,261,334
+6,Été,Yes,Ryanair,Marseille,London,2 stops,418,78
+9,Automne,Yes,Lufthansa,Lyon,Rome,Non-stop,499,536
+11,Automne,Yes,Ryanair,Marseille,Berlin,2 stops,487,386
+10,Automne,Yes,Air France,Paris,Berlin,2 stops,531,441
+8,Été,Yes,Transavia,Lyon,Berlin,2 stops,267,863
+8,Été,No,Lufthansa,Nice,Madrid,1 stop,390,389
+5,Printemps,Yes,Transavia,Marseille,London,2 stops,633,413
+7,Été,No,Air France,Lyon,Berlin,Non-stop,681,316
+8,Été,No,EasyJet,Lyon,London,1 stop,665,271
+10,Automne,No,Ryanair,Paris,Berlin,Non-stop,311,459
+6,Été,Yes,Lufthansa,Marseille,Berlin,2 stops,117,853
+12,Hiver,No,EasyJet,Marseille,Rome,Non-stop,597,684
+5,Printemps,Yes,Lufthansa,Marseille,Madrid,1 stop,249,823
+10,Automne,No,Ryanair,Paris,London,2 stops,598,792
+1,Hiver,No,Lufthansa,Paris,London,2 stops,548,398
+11,Automne,Yes,Air France,Paris,London,1 stop,338,826
+8,Été,No,EasyJet,Nice,Berlin,2 stops,252,528
+10,Automne,Yes,Ryanair,Paris,Berlin,2 stops,658,482
+12,Hiver,Yes,Air France,Marseille,Berlin,Non-stop,480,441
+6,Été,Yes,EasyJet,Lyon,Rome,Non-stop,309,613
+11,Automne,Yes,Air France,Paris,Rome,1 stop,532,594
+6,Été,Yes,Air France,Paris,Rome,Non-stop,401,231
+12,Hiver,No,Air France,Nice,Berlin,1 stop,329,343
+8,Été,Yes,Transavia,Lyon,Rome,1 stop,192,241
+7,Été,Yes,Transavia,Marseille,Berlin,1 stop,598,236
+10,Automne,No,Air France,Lyon,Madrid,2 stops,481,289
+3,Printemps,No,Transavia,Marseille,Berlin,2 stops,118,469
+6,Été,No,Lufthansa,Paris,Rome,Non-stop,261,547
+6,Été,Yes,EasyJet,Paris,Berlin,1 stop,179,508
+4,Printemps,Yes,Ryanair,Lyon,Madrid,1 stop,194,120
+12,Hiver,Yes,Air France,Lyon,Madrid,Non-stop,400,58
+5,Printemps,No,Air France,Lyon,Madrid,Non-stop,415,606
+11,Automne,Yes,Air France,Marseille,London,2 stops,575,740
+4,Printemps,Yes,Lufthansa,Nice,Rome,2 stops,607,351
+1,Hiver,No,Transavia,Nice,Madrid,2 stops,276,720
+2,Hiver,No,Ryanair,Nice,Madrid,Non-stop,501,819
+9,Automne,No,Transavia,Paris,Berlin,2 stops,337,123
+3,Printemps,Yes,Transavia,Nice,London,1 stop,710,103
+11,Automne,Yes,Air France,Nice,Madrid,2 stops,235,562
+11,Automne,No,Transavia,Nice,London,Non-stop,676,685
+2,Hiver,Yes,Ryanair,Paris,Madrid,Non-stop,225,465
+1,Hiver,Yes,EasyJet,Marseille,London,1 stop,197,799
+12,Hiver,No,Transavia,Marseille,Madrid,2 stops,290,719
+12,Hiver,Yes,EasyJet,Marseille,Rome,2 stops,248,467
+4,Printemps,Yes,Ryanair,Nice,Madrid,1 stop,558,695
+9,Automne,Yes,Lufthansa,Nice,Madrid,1 stop,472,572
+5,Printemps,Yes,Transavia,Lyon,Rome,1 stop,463,844
+9,Automne,No,EasyJet,Paris,London,1 stop,336,842
+6,Été,Yes,EasyJet,Marseille,Berlin,2 stops,535,437
+11,Automne,No,Air France,Marseille,Berlin,Non-stop,628,219
+2,Hiver,No,Air France,Lyon,Madrid,Non-stop,308,413
+12,Hiver,No,EasyJet,Paris,Rome,2 stops,485,355
+9,Automne,Yes,EasyJet,Marseille,Rome,Non-stop,598,147
+9,Automne,Yes,Lufthansa,Marseille,Berlin,2 stops,166,241
+3,Printemps,No,Air France,Marseille,London,2 stops,247,591
+7,Été,No,Ryanair,Lyon,Berlin,Non-stop,328,282
+2,Hiver,Yes,Transavia,Nice,London,2 stops,283,286
+5,Printemps,Yes,Lufthansa,Nice,Madrid,1 stop,324,727
+5,Printemps,No,Ryanair,Lyon,Rome,1 stop,353,865
+12,Hiver,Yes,Transavia,Lyon,Berlin,2 stops,291,60
+12,Hiver,No,Transavia,Nice,Rome,1 stop,321,199
+3,Printemps,Yes,Ryanair,Marseille,London,1 stop,691,717
+9,Automne,Yes,EasyJet,Lyon,London,2 stops,94,87
+11,Automne,No,Lufthansa,Marseille,London,1 stop,264,777
+9,Automne,No,Ryanair,Lyon,Berlin,Non-stop,600,156
+1,Hiver,Yes,Lufthansa,Nice,Madrid,1 stop,603,719
+8,Été,No,Transavia,Paris,London,Non-stop,113,266
+1,Hiver,No,Air France,Lyon,Rome,1 stop,404,338
+10,Automne,Yes,Ryanair,Lyon,Madrid,2 stops,73,462
+6,Été,No,EasyJet,Nice,London,1 stop,269,144
+4,Printemps,Yes,Lufthansa,Lyon,London,2 stops,239,568
+7,Été,Yes,EasyJet,Nice,Rome,Non-stop,289,133
+9,Automne,Yes,EasyJet,Paris,London,1 stop,287,541
+12,Hiver,Yes,Ryanair,Paris,Rome,1 stop,156,71
+8,Été,Yes,Air France,Marseille,Rome,1 stop,513,86
+12,Hiver,No,Transavia,Nice,Berlin,Non-stop,315,528
+3,Printemps,Yes,Ryanair,Lyon,Rome,2 stops,281,256
+10,Automne,No,Ryanair,Lyon,Madrid,2 stops,622,871
+11,Automne,No,Transavia,Marseille,Madrid,Non-stop,316,695
+3,Printemps,No,Transavia,Nice,Berlin,2 stops,61,224
+5,Printemps,No,Ryanair,Paris,Madrid,Non-stop,73,84
+4,Printemps,No,Ryanair,Paris,London,2 stops,370,591
+11,Automne,Yes,Lufthansa,Nice,Berlin,1 stop,639,838
+3,Printemps,No,Ryanair,Marseille,Berlin,1 stop,447,588
